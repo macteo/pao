@@ -19,43 +19,44 @@
                    "small":{
                      "url":"http://foo.com/bar-s.png",
 		             "format":"png",
-        		     "check":"79054025255fb1a26e4bc422aef54eb4"
+        		     "checksum":"79054025255fb1a26e4bc422aef54eb4"
                    },
                    "small@2x":{
                      "url":"http://foo.com/bar-s@2x.png",
 		             "format":"png",
-        		     "check":"79054025255fb1a26e4bc422aef54eb4"
+        		     "checksum":"79054025255fb1a26e4bc422aef54eb4"
                    },
                    "medium":{
                      "url":"http://foo.com/bar-m.png",
 		             "format":"png",
-        		     "check":"79054025255fb1a26e4bc422aef54eb4"
+        		     "checksum":"79054025255fb1a26e4bc422aef54eb4"
                    },
                    "medium@2x":{
                      "url":"http://foo.com/bar-m@2x.png",
 		             "format":"png",
-        		     "check":"79054025255fb1a26e4bc422aef54eb4"
+        		     "checksum":"79054025255fb1a26e4bc422aef54eb4"
                    },
                    "large":{
                      "url":"http://foo.com/bar-l.png",
 		             "format":"png",
-        		     "check":"79054025255fb1a26e4bc422aef54eb4"
+        		     "checksum":"79054025255fb1a26e4bc422aef54eb4"
                    },
                    "large@2x":{
                      "url":"http://foo.com/bar-l@2x.png",
 		             "format":"png",
-        		     "check":"79054025255fb1a26e4bc422aef54eb4"
+        		     "checksum":"79054025255fb1a26e4bc422aef54eb4"
                    }
                  }
              }
          ],
          "3":[
              {
-              "url":"http://foo.com/foo.png",
-              "name":"foo",
-              "format":"png",
-              "check":"79054025255fb1a26e4bc422aef54eb4"
-           }
+               "name":"bar",
+               "type":"image",
+			   "url":"http://foo.com/bar-l@2x.png",
+		       "format":"png",
+        	   "checksum":"79054025255fb1a26e4bc422aef54eb4"
+             }
          ]
       }
     ]
