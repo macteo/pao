@@ -13,6 +13,7 @@
          "1":[
              {
                "name":"bar",
+               "type":"image",
                "versions":
                  {
                    "small":{
