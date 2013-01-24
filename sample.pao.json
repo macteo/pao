@@ -1,0 +1,60 @@
+{
+  "pao": {
+  	"version": 0.1,
+    "author": "Matteo Gavagnin",
+    "email": "matteo.gavagnin@gmail.com",
+    "created":"2013-01-24T18:14:20+0100",
+    "updated":"2013-01-24T18:14:20+0100",
+    "url":"http://github.com/macteo/pao/"
+  },
+  "files":{
+    "1":[
+        {
+         "3":[
+             {
+              "url":"http://foo.com/bar.png",
+              "name":"foo",
+              "format":"png",
+              "check":"79054025255fb1a26e4bc422aef54eb4"
+           }
+         ]
+      }
+    ]
+  },
+  "index":{
+  	"1":{
+      "title":"Introduction",
+      "pages": 3
+    }, 
+     "2":{
+      "title":"Content",
+      "pages": 1
+    }
+  },    
+  "content": [
+    [  
+      {
+        "title": "First page of the first chapter",
+        "content":"this is the content of the first page"
+      },
+      {
+        "title": "Second page",
+        "content":"this is the content of the second page"
+      },
+      {
+        "title": "Third page",
+        "content":"this is the content of the third page that has an image linked",
+        "image":"foo.png"
+      }
+    ],
+    [  
+      {
+        "title": "First page of the second chapter",
+        "content":"The second chapter has just one page, without any image."
+      }
+    ]
+  ],
+  "checksum":"9e107d9d372bb6826bd81d3542a419d6"
+}
+
+        
