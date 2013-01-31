@@ -1,6 +1,6 @@
 {
   "pao": {
-  	"version": 0.1,
+  	"version": 0.2,
     "author": "Matteo Gavagnin",
     "email": "matteo.gavagnin@gmail.com",
     "created":"2013-01-24T18:14:20+0100",
@@ -112,5 +112,6 @@
   "checksum":"9e107d9d372bb6826bd81d3542a419d6"
 }
 
+        
         
         
